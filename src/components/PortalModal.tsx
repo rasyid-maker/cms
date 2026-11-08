@@ -409,7 +409,7 @@ export const PortalModal: React.FC<PortalModalProps> = ({
         <div className="mt-8 pt-4 border-t border-slate-700/50 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-400">
           <div className="flex items-center gap-2">
             <Building className="w-4 h-4 text-[#1677FF]" />
-            <span>Hak Cipta © 2026 CMS Community Management System. Dilindungi enkripsi institusional.</span>
+            <span>Hak Cipta © 2026 CMS Chepi Multi System. Dilindungi enkripsi institusional.</span>
           </div>
           <button
             onClick={onClose}

@@ -24,7 +24,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenPortal, onOpenTracking }) 
           <div className="space-y-4">
             <CMSLogo size="md" />
             <p className="text-slate-300 leading-relaxed text-xs">
-              CMS (Community Management System) adalah platform digital terintegrasi yang menghadirkan layanan dan pengelolaan administrasi serta pelayanan masyarakat secara modern, cepat, transparan, dan terpercaya.
+              CMS (Chepi Multi System) adalah platform digital terintegrasi yang menghadirkan layanan dan pengelolaan administrasi serta pelayanan masyarakat secara modern, cepat, transparan, dan terpercaya.
             </p>
             <div className="pt-2 flex items-center gap-2 text-[11px] text-slate-400">
               <span className="w-2 h-2 rounded-full bg-emerald-400" />
@@ -153,7 +153,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenPortal, onOpenTracking }) 
         {/* Bottom Bar: Copyright & Compliance */}
         <div className="mt-12 pt-8 border-t border-slate-800/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-slate-300 text-[11px]">
           <div>
-            © 2026 CMS - Community Management System. All Rights Reserved.
+            © 2026 CMS - Chepi Multi System. All Rights Reserved.
           </div>
           <div className="flex items-center gap-4 text-slate-300">
             <span>Kebijakan Privasi</span>

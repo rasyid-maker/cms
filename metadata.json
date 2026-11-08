@@ -1,5 +1,5 @@
 {
-  "name": "CMS - Community Management System",
+  "name": "CMS - Chepi Multi System",
   "description": "Platform digital terintegrasi untuk layanan administrasi dan pelayanan masyarakat modern, cepat, dan transparan.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
